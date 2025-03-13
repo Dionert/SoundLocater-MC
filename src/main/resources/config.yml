@@ -1,0 +1,18 @@
+sounds:
+  sound1:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    name: "ENTITY_HORSE_AMBIENT"
+    volume: 1.0
+    pitch: 1.0
+    interval: 5
+
+  sound2:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    name: "ENTITY_COW_AMBIENT"
+    volume: 0.5
+    pitch: 1.2
+    interval: 10
