@@ -59,4 +59,4 @@ Reload the sound configuration of the plugin without restarting the server.
 **Required Permission**: `customsounds.reload`
 
 ## NOTE 
-(This plugin was used on a roleplay server where sounds were played every 5/10 seconds. I will later add the ability to use different intervals.)
+(This plugin was used on a roleplay server where sounds were played every 5/10 seconds. I will later add the ability to use different intervals & worlds.)
